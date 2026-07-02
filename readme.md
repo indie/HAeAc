@@ -1,4 +1,4 @@
-#Silencing the Cessnas
+# Silencing the Cessnas
 
 No other neighborhood in the #Portland metro area has as much nuisance air #pollution and noise pollution traffic 
 as do we in little Forest Grove, Oregon. I started compiling this data a long time ago, and myriad more now compounding 
